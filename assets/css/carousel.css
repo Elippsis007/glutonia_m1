@@ -5,8 +5,22 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  color: black;
   font-family: 'Concert One', cursive;
+}
+
+body, html {
+  height: 100%;
+}
+
+
+.bg { 
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF4oloXjAeCHQzCkx94xpC8SzIBGUnLZRow&usqp=CAU") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 1;
 }
 
 
@@ -36,6 +50,11 @@ body {
   height: 32rem;
 }
 
+.btn-secondary {
+    color: #fff;
+    background-color: #44484c;
+    border-color: #6c757d;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -66,6 +85,18 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
+}
+
+.drink {
+    border-style: none;
+    position: relative;
+    width: inherit;
+}
+
+.joke {
+    border-style: none;
+    position: relative;
+    width: inherit;
 }
 
 
