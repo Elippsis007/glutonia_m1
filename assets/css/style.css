@@ -1,12 +1,12 @@
 body{
 font-family: 'Concert One', cursive;
-}
+ }
 
 /*--------------------------Body Background Image------------------------------------*/
 body {
 background-repeat:no-repeat;
 background-position: center center;
-background: url(https://browser-black-skink-t5ox5l7l.ws-eu03.gitpod.io/workspace/bootstrap_grid_practice/assets/images/glutonia_image.jpg);
+background-image: url("https://img.17qq.com/images/hmmmpkmdhdv.jpeg");
     width: 100%;
     height: 100%;
     background-size: 100%;
@@ -19,6 +19,7 @@ background: url(https://browser-black-skink-t5ox5l7l.ws-eu03.gitpod.io/workspace
         background-size: 400%;
     }
 }
+
 
 /*--------------------------Navigation Bar------------------------------------*/
 
@@ -89,4 +90,6 @@ footer {
   height: 60px;
   background-color: rgba(60, 60, 60, 0.1);
 }
+
+
 
