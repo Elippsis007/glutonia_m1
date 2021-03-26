@@ -14,8 +14,8 @@ body, html {
 }
 
 
-.bg { 
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF4oloXjAeCHQzCkx94xpC8SzIBGUnLZRow&usqp=CAU") no-repeat center center fixed; 
+body { 
+  background: url("https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -79,6 +79,24 @@ body, html {
 .featurette-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
 }
+
+/*--------Divider colors------------*/
+
+.red_divider {
+    color: red;
+    border-top: 3px solid;
+}
+
+.blue_divider {
+    color: blue;
+    border-top: 3px solid;
+}
+
+.green_divider {
+    color: green;
+    border-top: 3px solid;
+}
+
 
 /* Thin out the marketing headings */
 .featurette-heading {

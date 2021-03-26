@@ -8,7 +8,14 @@ body{
 
 /*--------------------------Body Background Image------------------------------------*/
 
-
+body { 
+  background: url("https://png.pngtree.com/thumb_back/fh260/background/20190630/pngtree-vector-white-background-with-abstract-geometric-pattern-or-textu-image_265390.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 1;
+}
 
 /*--------------------------Media Query for resposive design------------------------------------*/
 
