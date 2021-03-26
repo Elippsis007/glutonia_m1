@@ -1,11 +1,11 @@
 body{
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  color: black;
   font-family: 'Concert One', cursive;
  }
 
-
+ 
 /*--------------------------Body Background Image------------------------------------*/
 
 body { 
@@ -29,6 +29,7 @@ body {
 /*--------------------------Navigation Bar------------------------------------*/
 
 .navbar {
+    position: absolute;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
@@ -55,11 +56,12 @@ img {
 /*--------------------------Form Element------------------------------------*/
 .form-container {
     position: absolute;
-    top: 4vh;
+    top: 22vh;
     padding: 65px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px;
-    height: 355px;
+    height: 400px;
+    margin-left: 11%;
 }
 
 
@@ -85,17 +87,25 @@ button, input {
     border-color: #545b62;
 }
 
-
-/*--------------Footer for Pages 2, 3 and 4--------------------------------*/
-
 footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 60px;
-  background-color: rgba(60, 60, 60, 0.1);
+    min-height: 150px;
 }
 
+footer {
 
+  background-color: transparent;
+  position: absolute;
+  right: 0;bottom:0;left:0;
+  text-align: center;
+}
 
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 100%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+}

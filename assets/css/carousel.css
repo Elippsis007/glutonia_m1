@@ -24,6 +24,23 @@ body {
 }
 
 
+/*--------------------------Navigation Bar------------------------------------*/
+
+.navbar {
+    position: absolute;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    background: transparent;
+}
+
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -40,7 +57,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
-  background-color: #777;
+  background-color: transparent;
 }
 .carousel-item > img {
   position: absolute;
@@ -48,6 +65,18 @@ body {
   left: 0;
   min-width: 100%;
   height: 32rem;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #495057;
+    text-align: center;
 }
 
 .btn-secondary {
@@ -76,24 +105,25 @@ body {
 /* Featurettes
 ------------------------- */
 
-.featurette-divider {
+
+.feature_divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
 }
 
 /*--------Divider colors------------*/
 
-.red_divider {
-    color: red;
+.feature_divider {
+    color: #ffffffad;
     border-top: 3px solid;
 }
 
-.blue_divider {
-    color: blue;
+.feature_divider {
+    color: #ffffffad;
     border-top: 3px solid;
 }
 
-.green_divider {
-    color: green;
+.feature_divider {
+    color: #ffffffad;
     border-top: 3px solid;
 }
 
@@ -138,4 +168,25 @@ body {
   .featurette-heading {
     margin-top: 7rem;
   }
+}
+
+/*--------------Footer for Pages--------------------------------*/
+
+footer {
+    min-height: 100px;
+}
+
+.social-networks{
+  text-align: center;
+}
+
+.social-networks li{
+  display:inline;
+}
+
+.social-networks i{
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: #777777;
 }
