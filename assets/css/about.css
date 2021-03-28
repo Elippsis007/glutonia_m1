@@ -20,14 +20,9 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  z-index: 1;
-  
+  z-index: 1;  
 }
 
-.bg-light {
-    background-color: transparent !important;
-    border-radius: 25px;
-}
 
 /*--------------------------Media Query for resposive design------------------------------------*/
 
