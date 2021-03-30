@@ -20,17 +20,6 @@ body {
   z-index: 1;
 }
  
-/*--------------------------Body Background Image------------------------------------*/
-
-body { 
-  background: url("https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  z-index: 1;
-}
-
 /*--------------------------Media Query for resposive design------------------------------------*/
 
 @media only screen and (max-width: 678px) {
@@ -57,27 +46,13 @@ body {
 }
 
 
-/*--------------------------Glutonia Logo------------------------------------*/
-
-img {
-    border-style: none;
-    position: absolute;
-    margin-top: 100%;
-    margin-left: 1%;
-}
-
-
-/*--------------------------Form Element------------------------------------*/
+/*--------------------------Form Element-----------------------*/
 .form-container {
-    display: inline-block;
-    position: absolute;
-    top: 21vh;
+    margin-top: 16vh;
     padding: 65px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px;
     height: 400px;
-    margin-left: 11%;
-    
 }
 
 
