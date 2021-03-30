@@ -9,7 +9,7 @@ The website will have a carousel, a blog and a questionnaire form type.
 
 ## How to access Glutonia
 
-Simply type: https://www.glutonia.com
+Glutonia isn't a published site but can be accessed with request through GitHub.
 It's designed for all devices, including any mobile phone.
 
 ## Purpose
@@ -24,6 +24,18 @@ boostrap v4.
 
 This won't be a project I will continue to work on further in the future.
 It is merely to show HTML & CSS skills.
+
+## References
+
+Templates for the Index.html & Main.html were taken from https://getbootstrap.com/
+The styling for these templater were work of my own from getting answers from https://stackoverflow.com/
+
+### Images
+
+Images that were used on this website were used from google images search. 
+    Conspiracy Image: https://cdn.vox-cdn.com/ (Shutter Stock)
+    
+
 
 ## Contributing
 This is a private project for a collge project. Unfortunately

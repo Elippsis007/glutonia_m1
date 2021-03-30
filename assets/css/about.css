@@ -10,12 +10,43 @@ body, html {
   height: 100%;
 }
 
+/*--------------------------Body Background Image------------------------------------*/
+
+body { 
+  background: url("https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 1;  
+}
+
+/*--------------------------Navigation Bar------------------------------------*/
+
+.navbar {
+    position: absolute;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    background: transparent;
+}
+
+/*-------------About us Card-----------------*/
+
 .card {
     background-color: transparent;
     border-radius: 25px;
     box-shadow: 0px 0px 10px 0px;
 }
 
+
+/*-------------Font awesome icon -bounce- Icon -----------------*/
 .fa-bounce {
     display: inline-block;
     position: relative;
@@ -24,6 +55,8 @@ body, html {
     -webkit-animation: bounce 1s infinite linear;
     animation: bounce 1s infinite linear;
 }
+
+/*-------------Font awesome icon -bounce- script -----------------*/
 
 @-webkit-keyframes bounce {
     0% { top: 0; }
@@ -56,22 +89,6 @@ body, html {
     100% { top: 0; }
 }
 
-/*--------------------------Body Background Image------------------------------------*/
-
-body { 
-  background: url("https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  z-index: 1;  
-}
-
-.vertical-center {
-    min-height: 80vh;
-    display: flex;
-    align-items: center;
-}
 
 /*--------------------------Media Query for resposive design------------------------------------*/
 
@@ -82,20 +99,12 @@ body {
 }
 
 
-/*--------------------------Navigation Bar------------------------------------*/
+/*--------------------------Paragraph------------------------------------*/
 
-.navbar {
-    position: absolute;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    padding: .5rem 1rem;
-    background: transparent;
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    line-height: 2rem;
 }
 
 /*--------------Footer for Pages--------------------------------*/

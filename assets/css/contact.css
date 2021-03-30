@@ -1,3 +1,5 @@
+/*---------------------Body Styling--------------------*/
+
 body{
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -17,7 +19,7 @@ body, html {
 }
 
 
-/*--------------------------Body Background Image------------------------------------*/
+/*--------------------------Body Background Image-------------------------*/
 
 body { 
   background: url("https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg") no-repeat center center fixed; 
