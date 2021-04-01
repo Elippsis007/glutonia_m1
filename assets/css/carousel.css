@@ -41,6 +41,18 @@ body {
 
 /*---------------------Carousel Styling----------------------------------- */
 
+.carousel-caption {
+    position: fixed;
+    right: 15%;
+    bottom: 2px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #495057;
+    text-align: center;
+}
+
 .carousel {
   margin-bottom: 4rem;
 }
@@ -159,6 +171,16 @@ body {
     margin-top: 7rem;
   }
 }
+
+
+/*--------------------------Media Query for resposive design------------------------------------*/
+
+@media only screen and (max-width: 678px) {
+    body{
+        background-size: 400%;
+    }
+}
+
 
 /*--------------Footer for Pages--------------------------------*/
 
