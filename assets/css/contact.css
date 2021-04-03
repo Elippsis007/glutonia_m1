@@ -31,14 +31,6 @@ body {
   
 }
 
-/*--------------------------Media Query for resposive design------------------------------------*/
-
-@media only screen and (max-width: 678px) {
-    body{
-        background-size: 600%;
-    }
-}
-
 
 /*--------------------------Navigation Bar------------------------------------*/
 
@@ -59,7 +51,7 @@ body {
 /*--------------Footer for Pages--------------------------------*/
 
 footer {
-    position: fixed;
+    position: 0;
     bottom: 0;
     left: 0;
     right: 0;

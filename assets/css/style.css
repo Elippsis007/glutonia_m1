@@ -22,13 +22,7 @@ body {
   z-index: 1;
 }
  
-/*--------------------------Media Query for resposive design------------------------------------*/
 
-@media only screen and (max-width: 678px) {
-    body{
-        background-size: 600%;
-    }
-}
 
 
 /*--------------------------Navigation Bar------------------------------------*/
@@ -49,50 +43,26 @@ body {
 
 
 /*--------------------------Form Element-----------------------*/
-.form-container {
-    margin-top: 6vh;
+.container {
+    margin-top: auto;
     padding: 65px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px;
+    width: fit-content !important;
 }
 
-a:hover {
+.btn-primary {
     color: #fff;
-    text-decoration: underline;
+    background-color: #e5ff00;
+    border-color: 007bff;
 }
 
-a:hover {
-    color: #fff;
-    text-decoration: underline;
-}
-
-a {
-    color: #fff;
-    text-decoration: none;
-    background-color: transparent;
-    -webkit-text-decoration-skip: objects;
-}
-
-.forgot>p {
-    color: #1d2124;
-    text-decoration: none;
-    display: block;
-    text-align: center;
-    margin-block: 20px;
-}
-
-/*-------------------------Buttons--------------------*/
-
-button, input {
-    overflow: visible;
-    width: 150px;
-    margin: 0px;
-}
-
-.btn-secondary:hover {
-    color: #fff;
-    background-color: #5a6268;
-    border-color: #545b62;
+/*-----------------Footer-----------------*/
+footer {
+    position: fixed !important;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .social-networks{
@@ -108,12 +78,4 @@ button, input {
   margin: 1%;
   padding: 5%;
   color: #777777;
-}
-
-/*-----------------Footer-----------------*/
-footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
 }

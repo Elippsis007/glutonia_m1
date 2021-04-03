@@ -13,18 +13,12 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
     <link rel="stylesheet" href="assets/css/style.css">
-    
-
 </head>
 
 <body>
 
-<div class="container-fluid">
-    <div class="row justify-content-center">
-        <div class="col-xs">
-
 <header>
-    <nav class="fixed-top navbar navbar-expand-lg navbar-light">
+    <nav class="fixed-top navbar navbar-expand-xl navbar-expand-md navbar-expand-sm navbar-expand-xs navbar-light">
     <a class="navbar-brand" href="index.html">Glutonia</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -45,27 +39,33 @@
 </nav>
 </header>
 
-                <form class="form-container" action="#" method="POST">
-                    <div class="form-group">
-                    <label for="email"></label>
-                    <input id="email" type="email" name="email"  placeholder="Your email address" required/>
-                    </div>
-                    
-                    <div class="form-group">
-                    <label for="password"></label>
-                    <input id="password" type="password" name="password" placeholder="Password" required >
-                    </div>
-                    
-                    <button type="button" class="btn btn-secondary btn-block"> <a href="main.html">Let's Go!</a></button>
-                    <br>
-                    <a href="#" class="forgot"><p>Forgot your password?</p><hr></a>
-                    
-                    <button type="button" class="btn btn-secondary btn-block">Become a Glubee Now!</button>
-                </form>
-        </div>
-        </div>
-        </div>
 
+<div class=" text-center mt-3 ">
+    <h1>Log In</h1>
+    </div>
+
+        <div class="col">
+    <form>
+    <div class="container"> 
+        <label for="exampleInputEmail1" class="form-label">Email address</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required>
+    
+    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Password</label>
+        <input type="password" class="form-control" id="exampleInputPassword1" required>
+    </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+  
+    </div>
+</form>
+</div>
+
+
+
+      
 <footer>
         <ul class="social-networks">
           <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i> </a></li>
