@@ -53,13 +53,19 @@ body {
 
 .btn-primary {
     color: #fff;
-    background-color: #e5ff00;
-    border-color: 007bff;
+    background-color: #44484c;
+    border-color: #6c757d;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #44484c;
 }
 
 /*-----------------Footer-----------------*/
 footer {
-    position: fixed !important;
+    position: 0;
     bottom: 0;
     left: 0;
     right: 0;
