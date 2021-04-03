@@ -42,34 +42,51 @@ body {
 }
 
 
-/*--------------------------Form Element-----------------------*/
-.container {
-    margin-top: auto;
-    padding: 65px;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px 0px;
-    width: fit-content !important;
-}
+ #photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 5px !important;
+  }
 
-.btn-primary {
-    color: #fff;
-    background-color: #44484c;
-    border-color: #6c757d;
-}
+  #photo img {
+    width: 100%;
+  }
 
-.btn-primary:hover {
-    color: #fff;
-    background-color: #6c757d;
-    border-color: #44484c;
-}
+  #photo {
+      column-count: 4;
+          }
 
-a {
-    color: white;
-}
+  
+@media screen and (max-width: 1920px) {
+    #photo {
+      column-count: 4;
+    }
+  }
 
-a:hover {
-    color: white;
-}
+  @media screen and (max-width: 1200px) {
+    #photo {
+      column-count: 3;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    #photo {
+      column-count: 2;
+    }
+  }
+
+  @media screen and (max-width: 736px) {
+    #photo {
+      column-count: 2;
+    }
+  }
+
+  @media screen and (max-width: 568px) {
+    #photo {
+      column-count: 1;
+    }
+  }
 
 /*-----------------Footer-----------------*/
 footer {
