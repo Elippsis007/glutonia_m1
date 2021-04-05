@@ -55,15 +55,28 @@ Images that were used on this website were used from google images search.
     
  Background Image: https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg (https://i.pinimg.com)
 
+#
 # Wireframes
 
+Home Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/index.html-balsamiq.png">View</a>
 
+Main Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/main.html-balsamiq.png">View</a>
 
+Gallery Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/gallery.html-balsamiq.png">View</a>
+
+About Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/about.html-balsamiq.png">View</a>
+
+Contact Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/contact.html-balsamiq.png">View</a>
+
+# Features 
+*   Responsive on all devices and tested on <a>https://responsivedesignchecker.com/</a>
+*   Interacticve elements
+#
 ## How to access Glutonia
 
 Glutonia isn't a published site but can be accessed with request through GitHub.
 It's designed for all devices, including any mobile phone.
-
+#
 ## Purpose
 
 It's a fun way of learning about Gluten and the types of effects it can have
@@ -72,13 +85,15 @@ be boring.
 It has 4 pages, login page, home page, about us and a contact page all built using
 boostrap v4.
 
+#
 ## Technologies Used
 
-*   Languages Used
+### Languages Used
 
-HTML5 & CSS
+*   HTML5
+*   CSS
 
-*   Frameworks, Libraries & Programs Used
+###   Frameworks, Libraries & Programs Used
 
 1.  Bootstrap V4
 2.  Hover.css:
@@ -104,6 +119,7 @@ HTML5 & CSS
 7. GitHub:
 
     GitHub is used to store the projects code after being pushed from Git.
+#
 
 ## Testing
 
@@ -148,12 +164,12 @@ Friends and family members were asked to review the site and documentation to po
 On some mobile devices the I was having issues with down-scaling from full screen to mobile where content was not formatting accordingly.
 A white space could be seen outside the background image accross all variations of sizes at the navigation and footer bars.
 On a few pages I couldn't get the footer to rest at the bottom of the pages so I had to customize the CSS for some of the pages to make it work.
-
+#
 ## Roadmap
 
 This won't be a project I will continue to work on further in the future.
 It is merely to show HTML & CSS skills.
-
+#
 ## References
 
 Templates for the Index.html & Main.html were taken from https://getbootstrap.com/
@@ -163,7 +179,7 @@ The styling for these templater were work of my own from getting answers from ht
 Bulmers Official Website Link: https://www.bulmers.co.uk/faqs
 
 Fonawesome: https://www.fontawesome.com
-
+#
 ## Contributing
 This is a private project for a collge project. Unfortunately
 pull requests for any type of changes won't be permitted.
