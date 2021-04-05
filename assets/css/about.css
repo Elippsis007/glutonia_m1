@@ -106,9 +106,10 @@ p {
     margin-top: 0;
     margin-bottom: 1rem;
     line-height: 2rem;
-    font-weight: 0rem;
     color: #777777;
 }
+
+/*--------------------------Styling for <a> links------------------------------------*/
 
 a:hover {
     color: #000000;
@@ -123,7 +124,6 @@ a {
 
 /*-----------------Footer-----------------*/
 footer {
-    position: 0;
     bottom: 0;
     left: 0;
     right: 0;

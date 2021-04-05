@@ -1,4 +1,4 @@
-/*-------------------------Body Stylin-------------------*/
+/*-------------------------Body Styling-------------------*/
 
 body{
   padding-top: 3rem;
@@ -66,6 +66,7 @@ hr {
   border-radius: 25px;
 }
 
+/*------------------------Photo Gallery Styling---------------------*/
 
  #photo {
     clear: both;
@@ -82,6 +83,8 @@ hr {
       column-count: 4;
           }
 
+
+/*------------------------Photo Gallery Responsive Design---------------------*/          
   
 @media screen and (max-width: 1920px) {
     #photo {
@@ -113,9 +116,9 @@ hr {
     }
   }
 
+
 /*-----------------Footer-----------------*/
 footer {
-    position: 0;
     bottom: 0;
     left: 0;
     right: 0;
