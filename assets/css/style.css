@@ -38,8 +38,18 @@ body {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: .5rem 1rem;
-    background: transparent;
 }
+
+.bg-light {
+    background: url("https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 1;
+  border-radius: 25px;
+}
+
 
 
 /*--------------------------Form Element-----------------------*/
