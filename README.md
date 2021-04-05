@@ -55,6 +55,10 @@ Images that were used on this website were used from google images search.
     
  Background Image: https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg (https://i.pinimg.com)
 
+# Wireframes
+
+
+
 ## How to access Glutonia
 
 Glutonia isn't a published site but can be accessed with request through GitHub.
