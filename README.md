@@ -42,15 +42,19 @@ and a <i>non-functioning</i> Contact Form Page.
 Images that were used on this website were used from google images search. 
     
  Conspiracy Image: https://cdn.vox-cdn.com/ (Shutter Stock)
+ 
  Conspiracy Link to article: https://www.independent.co.uk/life-style/gluten-sensitivity-science-fake-fructan-allergies-intolerance-diet-a8080211.html (independent.co.uk)
 
  Gluten Information Image: https://static.thenounproject.com/png/1493-200.png (thenounproject.com)
+ 
  Gluten Information Link to website: https://celiac.org/gluten-free-living/what-is-gluten/
 
  Gluten Community Image: https://irishusalumni.com/wp-content/uploads/2014/04/IUSA-Service.jpg (irishusalumni.com)
+ 
  Gluten Community Link to website: https://coeliac.ie/ (www.coeliac.ie)
 
  Joke Image: https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article1853749.ece/ALTERNATES/s615/0_man-379800_1920.jpg (www.i2-prod.plymouthherald.co.uk)
+ 
  Drink Image: https://img.resized.co/checkout/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDE3XFxcLzA2XFxcLzA4MTI0NTUyXFxcLzYuLUJVTE1FUlMtY2lkZXItMjA1ODA4NV8xOTIwLTEwMjR4NzEzLmpwZ1wiLFwid2lkdGhcIjo3MDAsXCJoZWlnaHRcIjozNzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jaGVja291dC5pZVxcXC9hc3NldHNcXFwvaVxcXC9ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5YjVjZGRkNWVjZmRlZTZhMmVlZjQ3MDkyYWNmOWM3MjY4ZTYzNmM1In0=/6-bulmers-cider-2058085-1920-1024x713.jpg (https://img.resized.co)
     
  Background Image: https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg (https://i.pinimg.com)
@@ -176,6 +180,7 @@ The user can also scroll to the bottom of any page on the site to locate social 
 
 The Website was tested on Google Chrome.
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX using google Dev Tools.
+The website has also been tested on <a href="https://responsivedesignchecker.com/">ResponsiveDesignChecker</a> successfully.
 A large amount of testing was done to ensure that all pages were linking correctly and responsive to all devices.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
