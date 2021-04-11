@@ -85,37 +85,40 @@ I see it as both relative and appropriate a fun and engaging website.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Elippsis007/glutonia_m1/tree/master/assets/w3_validator)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Elippsis007/glutonia_m1/tree/master/assets/w3_validator)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Elippsis007/glutonia_m1/tree/master/assets/w3_validator/w3c_html)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Elippsis007/glutonia_m1/tree/master/assets/w3_validator/w3c_css)
 
-* Index.html <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/index.html-%20W3_Validator.png">View</a>
+### Testing User Stories from User Experience (UX) Section
 
-The error showing on this validation for Index.html is an intentional input. This is demonstration purposes. Because I don't have a server to store login data, the idea here is to make sure users input the required data and to hit the link inside the log in button to allow immediate access to the main page. 
-* Main.html <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/main.html-W3_Validator.png">View</a>
+-   ### First Time Visitor Goals
 
-The error showing here on this screenshot is reffering to the youtube video embed. There is an option upon playinf the video in my webpage but there is also a link to allow users to watch in youtube outside of my website. What I have done here is modified it so that if the user wishes to view the video outside
-of my webpage then it would open in a new tab rather than the user losing their place on my website.
-* Gallery.html <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/gallery.html-W3_Validator.png">View</a>
+    1. As a first time user, I wanted to easily portray the main purpose of the site and to show a little about the idea of the website.
+    
+        1. When visiting the site, users are greeted with a clean and easily readable transparent navigation bar to go to the page of their choice. Centered in the home page is a simple login form with easily understandable text and instruction for a user to log in.
+The main focus of the page here is the simplistic approach and clear instruction as to how to proceed further if desired.
+The user has multiple options (inluding the navbar), click the call to action buttons on the form after inputting name and address which are REQUIRED.
+        2. The main point on this page is made with the simple, clean and easy on the eye colors.
+        3. The user here has a choice of 
+        2. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+Toward the bottom of all the pages there is the social links that will redirect you to the various social platforms.
+On the Contact Us Page you have a form to fill which is <i>non functioning</i>.
 
-Here there error is suggesting that I use a heading element but I do not want.
-* About.html <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/about.html-W3_Validator.png">View</a>
+        3. Once the user has read the About Us text toward the end of the text there is a link which will redirect them to the main page of the website.
+The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
 
-* Contact.html <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/contact.html-W3_Validator.png">View</a>
+*   Further Testing
 
+The Website was tested on Google Chrome.
+The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX using google Dev Tools.
+The website has also been tested on <a href="https://responsivedesignchecker.com/">ResponsiveDesignChecker</a> successfully.
+A large amount of testing was done to ensure that all pages were linking correctly and responsive to all devices.
+Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-W3C Validator Css:
+*   Known Bugs
 
-* Index.css <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/index.css-W3_Validator.png">View</a>
+On some mobile devices the I was having issues with down-scaling from full screen to mobile where content was not formatting accordingly - 05/04/21 - This issue has now been rectified.
+A white space could be seen outside the background image accross all variations of sizes at the navigation and footer bars.
 
-* Main.css <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/main.css-W3_Validator.png">View</a>
-
-* Gallery.css <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/gallery.css-W3_Validator.png">View</a>
-
-* About.css <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/about.css-W3_Validator.png">View</a>
-
-* Contact.css <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/contact.css-W3_Validator.png">View</a>
-
-#
 
 # Images
 
@@ -166,36 +169,7 @@ boostrap v4.
 
 
 
-### Testing User Stories from User Experience (UX) Section
 
-*   First Time Visitor Goals
-
-As a first time user, I wanted to easily portray the main purpose of the site and to show a little about the idea of the website.
-
-When visiting the site, users are greeted with a clean and easily readable transparent navigation bar to go to the page of their choice. Centered in the middle of the page is a simple login form with easily understandable text to log in a user.
-The main focus of the page here is the simplistic approach and clear instruction as to how to proceed further if desired.
-The user has multiple options (inluding the navbar), click the call to action buttons on the form after inputting name and address which are REQUIRED.
-
-The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-Toward the bottom of all the pages there is the social links that will redirect you to the various social platforms.
-On the Contact Us Page you have a form to fill which is <i>non functioning</i>.
-
-Once the user has read the About Us text toward the end of the text there is a link which will redirect them to the main page of the website.
-The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-
-*   Further Testing
-
-The Website was tested on Google Chrome.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX using google Dev Tools.
-The website has also been tested on <a href="https://responsivedesignchecker.com/">ResponsiveDesignChecker</a> successfully.
-A large amount of testing was done to ensure that all pages were linking correctly and responsive to all devices.
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
-
-*   Known Bugs
-
-On some mobile devices the I was having issues with down-scaling from full screen to mobile where content was not formatting accordingly - 05/04/21 - This issue has now been rectified.
-A white space could be seen outside the background image accross all variations of sizes at the navigation and footer bars.
-#
 ## Roadmap
 
 This won't be a project I will continue to work on further in the future.
