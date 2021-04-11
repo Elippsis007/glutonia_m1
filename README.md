@@ -1,135 +1,92 @@
+<h1 align="center">Glutonia</h1>
+
 # Glutonia
 
+This is Glutonia a website designed to be responsive and accessible for a range of devices, making it easy to navigate for the information you are seeking.
 Glutonia is a fun and simple way of learning about Gluten.
-My project is a website with a humors side of learnign about Gluten.
+My project is a website with a humorous side of learning about Gluten.
 
-# User Experience (UX)
- ## User stories
- *  First Time Visitor Goals
+## User Experience (UX)
 
-As a first time user, I wanted to understand the main purpose of the site and about the story for why this website was created.
-As a first time user, I want to be able to easily navigate throughout the site to find content.
+-   ### User stories
 
-*   Returning Visitor Goals
-As a returning user, I want to find information about Gluten, updates and engage with a community of Gluntenites.
-As a returning user, I want to find the best way to get in contact with others in the same situation, lost for advice and looking for the answers.
-As a returning user, I want to find community links.
+    -   #### First Time Visitor Goals
 
-# Design
-## Design & Colour Scheme
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the content it is showing.
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+    3. As a First Time Visitor, I want to look for the information on Gluten that is engaging and fun to learn.
 
-The color scheme on my website I was going for was clean and simple.
+-   #### Returning Visitor Goals
+
+        1. As a Returning Visitor, I want to find information about Gluten.
+        2. As a Returning Visitor, I want to find the best way to get in contact with the website for any questions I may have.
+        3. As a Returning Visitor, I want to find community links.
+
+        -   #### Frequent User Goals
+        1. As a Frequent User, I want to check to see if there are any updated videos on Gluten for educational purposes.
+        2. As a Frequent User, I want to check to see if there are updated pictures in the gluten-free gallery page.
+        3. As a Frequent User, I want to check in with the funny and interesting content on the main page.
+
+-   ### Design
+    -   #### Colour Scheme  
+        -   The color scheme on my website I was going for was clean and simple.
 I used a light multi-tone color background accross all pages for consistency.
-
-*   Typography
-
-The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. 
+    -    #### Typography
+            The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. 
 Concert One is a strange font, it has characteristics that speak Gluten, I like the shape and the thickness of the font it has a type of "gooey" style to the font. 
 I see it as both relative and appropriate a fun and engaging website.
 
-*   Imagery
+-   #### Imagery
+    -   Imagery in this website accross all content was to be fun and friendly.
 
-Imagery in this website accross all content was to be fun and friendly.
+*   ### Wireframes
 
-### Features
+    -   Home Page Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/index.html)
 
-The website has a functioning Log in Page. To access the main page the user must click the login hyper text link inside the button. 
-The main page has a carousel with a video embed, a link to articles. It has a simple About Us page
-and a <i>non-functioning</i> Contact Form Page.
+    -   Main Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/main.html)
 
-# Images
+    -   Gallery Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/gallery.html) 
 
-Images that were used on this website were used from google images search. 
-    
- Conspiracy Image: https://cdn.vox-cdn.com/ (Shutter Stock)
- 
- Conspiracy Link to article: https://www.independent.co.uk/life-style/gluten-sensitivity-science-fake-fructan-allergies-intolerance-diet-a8080211.html (independent.co.uk)
+    -   About Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/about.html)
 
- Gluten Information Image: https://static.thenounproject.com/png/1493-200.png (thenounproject.com)
- 
- Gluten Information Link to website: https://celiac.org/gluten-free-living/what-is-gluten/
+    -   Contact Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/contact.html)
 
- Gluten Community Image: https://irishusalumni.com/wp-content/uploads/2014/04/IUSA-Service.jpg (irishusalumni.com)
- 
- Gluten Community Link to website: https://coeliac.ie/ (www.coeliac.ie)
+## Features
 
- Joke Image: https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article1853749.ece/ALTERNATES/s615/0_man-379800_1920.jpg (www.i2-prod.plymouthherald.co.uk)
- 
- Drink Image: https://img.resized.co/checkout/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDE3XFxcLzA2XFxcLzA4MTI0NTUyXFxcLzYuLUJVTE1FUlMtY2lkZXItMjA1ODA4NV8xOTIwLTEwMjR4NzEzLmpwZ1wiLFwid2lkdGhcIjo3MDAsXCJoZWlnaHRcIjozNzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jaGVja291dC5pZVxcXC9hc3NldHNcXFwvaVxcXC9ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5YjVjZGRkNWVjZmRlZTZhMmVlZjQ3MDkyYWNmOWM3MjY4ZTYzNmM1In0=/6-bulmers-cider-2058085-1920-1024x713.jpg (https://img.resized.co)
-    
- Background Image: https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg (https://i.pinimg.com)
+-   Responsive on all device sizes
 
-#
-# Wireframes
+-   Interactive elements
 
-Home Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/index.html-balsamiq.png">View</a>
-
-Main Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/main.html-balsamiq.png">View</a>
-
-Gallery Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/gallery.html-balsamiq.png">View</a>
-
-About Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/about.html-balsamiq.png">View</a>
-
-Contact Wireframe <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/contact.html-balsamiq.png">View</a>
-
-# Features 
-*   Responsive on all devices and tested on <a>https://responsivedesignchecker.com/</a>
-*   Interacticve elements
-#
-## How to access Glutonia
-
-Glutonia isn't a published site but can be accessed with request through GitHub.
-It's designed for all devices, including any mobile phone.
-#
-## Purpose
-
-It's a fun way of learning about Gluten and the types of effects it can have
-on people. It's not supposed to be a serious website, because serious can
-be boring.
-It has 4 pages, login page, home page, about us and a contact page all built using
-boostrap v4.
-
-#
 ## Technologies Used
 
 ### Languages Used
 
-*   HTML5
-*   CSS
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS](https://en.wikipedia.org/wiki/CSS)
 
-###   Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs Used
 
-1.  Bootstrap V4
-2.  Hover.css:
-
-    Hover was used on the Social Media Icons in the footer and on the "click here" link toward the bottom of the paragraph on the About Us page.
-
-3. Google Fonts:
-
-    Google fonts were used to import the Concert One' font into the style.css file which is used on all pages throughout the project.
-
-4. Font Awesome:
-
-    Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-
-5. Jquery:
-
-    jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-
-6. Git:
-
-    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-
-7. GitHub:
-
-    GitHub is used to store the projects code after being pushed from Git.
-#
+1.  [Bootstrap V4:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+     - Bootstrap was used to assist with the responsiveness and styling of the website.
+1.  [Hover.css:](https://ianlunn.github.io/Hover/)
+     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+1.  [Google Fonts:](https://fonts.google.com/)
+     - Google fonts were used to import the Concert One' font into the style.css file which is used on all pages throughout the project.
+1.  [Font Awesome:](https://fontawesome.com/)
+     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1.  [jQuery:](https://jquery.com/)
+     - jQuery came with Bootstrap to make the navbar responsive.
+1.  [Git](https://git-scm.com/)
+     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1.  [GitHub:](https://github.com/)
+     - GitHub is used to store the projects code after being pushed from Git.
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-W3C Validator HTML:
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Elippsis007/glutonia_m1/tree/master/assets/w3_validator)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Elippsis007/glutonia_m1/tree/master/assets/w3_validator)
 
 * Index.html <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/index.html-%20W3_Validator.png">View</a>
 
@@ -159,6 +116,56 @@ W3C Validator Css:
 * Contact.css <a href="https://browser-red-canidae-x81bjd2t.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/w3_validator/contact.css-W3_Validator.png">View</a>
 
 #
+
+# Images
+
+Images that were used on this website were used from google images search. 
+    
+ Conspiracy Image: https://cdn.vox-cdn.com/ (Shutter Stock)
+ 
+ Conspiracy Link to article: https://www.independent.co.uk/life-style/gluten-sensitivity-science-fake-fructan-allergies-intolerance-diet-a8080211.html (independent.co.uk)
+
+ Gluten Information Image: https://static.thenounproject.com/png/1493-200.png (thenounproject.com)
+ 
+ Gluten Information Link to website: https://celiac.org/gluten-free-living/what-is-gluten/
+
+ Gluten Community Image: https://irishusalumni.com/wp-content/uploads/2014/04/IUSA-Service.jpg (irishusalumni.com)
+ 
+ Gluten Community Link to website: https://coeliac.ie/ (www.coeliac.ie)
+
+ Joke Image: https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article1853749.ece/ALTERNATES/s615/0_man-379800_1920.jpg (www.i2-prod.plymouthherald.co.uk)
+ 
+ Drink Image: https://img.resized.co/checkout/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDE3XFxcLzA2XFxcLzA4MTI0NTUyXFxcLzYuLUJVTE1FUlMtY2lkZXItMjA1ODA4NV8xOTIwLTEwMjR4NzEzLmpwZ1wiLFwid2lkdGhcIjo3MDAsXCJoZWlnaHRcIjozNzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jaGVja291dC5pZVxcXC9hc3NldHNcXFwvaVxcXC9ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5YjVjZGRkNWVjZmRlZTZhMmVlZjQ3MDkyYWNmOWM3MjY4ZTYzNmM1In0=/6-bulmers-cider-2058085-1920-1024x713.jpg (https://img.resized.co)
+    
+ Background Image: https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg (https://i.pinimg.com)
+
+
+
+
+#
+## How to access Glutonia
+
+Glutonia isn't a published site but can be accessed with request through GitHub.
+It's designed for all devices, including any mobile phone.
+#
+## Purpose
+
+It's a fun way of learning about Gluten and the types of effects it can have
+on people. It's not supposed to be a serious website, because serious can
+be boring.
+It has 4 pages, login page, home page, about us and a contact page all built using
+boostrap v4.
+
+#
+
+
+
+
+#
+
+
+
+
 ### Testing User Stories from User Experience (UX) Section
 
 *   First Time Visitor Goals
