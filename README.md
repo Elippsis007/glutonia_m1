@@ -98,6 +98,8 @@ Images that were used on this website were used from Google images search.
      - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1.  [GitHub:](https://github.com/)
      - GitHub is used to store the projects code after being pushed from Git.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/Elippsis007/glutonia_m1/tree/master/assets/wireframes) during the design process.
 
 ## Testing
 
