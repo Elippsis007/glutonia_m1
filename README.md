@@ -32,7 +32,6 @@ My project is a website with a humorous side of learning about Gluten.
         -   The color scheme on my website I was going for was clean and simple. I used a light multi-tone color background accross all pages for consistency.
     -   #### Typography
         -    The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. Concert One is a strange font, it has characteristics that speak Gluten, I like the shape and the thickness of the font it has a type of "gooey" style to the font. I see it as both relative and appropriate a fun and engaging website.
-
     -   #### Imagery
         -   Imagery in this website accross all content was to be fun and friendly.
 
@@ -47,6 +46,28 @@ My project is a website with a humorous side of learning about Gluten.
     -   About Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/about.html)
 
     -   Contact Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/contact.html)
+
+## Images
+
+Images that were used on this website were used from google images search. 
+    
+ Conspiracy Image: https://cdn.vox-cdn.com/ (Shutter Stock)
+ 
+ Conspiracy Link to article: https://www.independent.co.uk/life-style/gluten-sensitivity-science-fake-fructan-allergies-intolerance-diet-a8080211.html (independent.co.uk)
+
+ Gluten Information Image: https://static.thenounproject.com/png/1493-200.png (thenounproject.com)
+ 
+ Gluten Information Link to website: https://celiac.org/gluten-free-living/what-is-gluten/
+
+ Gluten Community Image: https://irishusalumni.com/wp-content/uploads/2014/04/IUSA-Service.jpg (irishusalumni.com)
+ 
+ Gluten Community Link to website: https://coeliac.ie/ (www.coeliac.ie)
+
+ Joke Image: https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article1853749.ece/ALTERNATES/s615/0_man-379800_1920.jpg (www.i2-prod.plymouthherald.co.uk)
+ 
+ Drink Image: https://img.resized.co/checkout/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDE3XFxcLzA2XFxcLzA4MTI0NTUyXFxcLzYuLUJVTE1FUlMtY2lkZXItMjA1ODA4NV8xOTIwLTEwMjR4NzEzLmpwZ1wiLFwid2lkdGhcIjo3MDAsXCJoZWlnaHRcIjozNzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jaGVja291dC5pZVxcXC9hc3NldHNcXFwvaVxcXC9ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5YjVjZGRkNWVjZmRlZTZhMmVlZjQ3MDkyYWNmOWM3MjY4ZTYzNmM1In0=/6-bulmers-cider-2058085-1920-1024x713.jpg (https://img.resized.co)
+    
+ Background Image: https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg (https://i.pinimg.com)
 
 ## Features
 
@@ -87,7 +108,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing User Stories from User Experience (UX) Section
 
--   ### First Time Visitor Goals
+-   #### First Time Visitor Goals
 
     1. As a first time user, I wanted to easily portray the main purpose of the site and to show a little about the idea of the website.
     
@@ -158,69 +179,66 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
          
 
-*   Further Testing
+### Further Testing
 
-The Website was tested on Google Chrome.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX using google Dev Tools.
-The website has also been tested on <a href="https://responsivedesignchecker.com/">ResponsiveDesignChecker</a> successfully.
-A large amount of testing was done to ensure that all pages were linking correctly and responsive to all devices.
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+-  The Website was tested on Google Chrome.
+-  The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX using google Dev Tools.
+-  The website has also been tested on <a href="https://responsivedesignchecker.com/">ResponsiveDesignChecker</a> successfully.
+-  A large amount of testing was done to ensure that all pages were linking correctly and responsive to all devices.
+-  Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-*   Known Bugs
+### Known Bugs
 
-On some mobile devices the I was having issues with down-scaling from full screen to mobile where content was not formatting accordingly - 05/04/21 - This issue has now been rectified.
-A white space could be seen outside the background image accross all variations of sizes at the navigation and footer bars.
+-  On some mobile devices the I was having issues with down-scaling from full screen to mobile where content was not formatting accordingly    
+-  A white space could be seen outside the background image accross all variations of sizes at the navigation and footer bars.
 
+## Deployment
 
-# Images
+### GitHub Pages
 
-Images that were used on this website were used from google images search. 
-    
- Conspiracy Image: https://cdn.vox-cdn.com/ (Shutter Stock)
- 
- Conspiracy Link to article: https://www.independent.co.uk/life-style/gluten-sensitivity-science-fake-fructan-allergies-intolerance-diet-a8080211.html (independent.co.uk)
+The project was deployed to GitHub Pages using the following steps...
 
- Gluten Information Image: https://static.thenounproject.com/png/1493-200.png (thenounproject.com)
- 
- Gluten Information Link to website: https://celiac.org/gluten-free-living/what-is-gluten/
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
- Gluten Community Image: https://irishusalumni.com/wp-content/uploads/2014/04/IUSA-Service.jpg (irishusalumni.com)
- 
- Gluten Community Link to website: https://coeliac.ie/ (www.coeliac.ie)
+### Forking the GitHub Repository
 
- Joke Image: https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article1853749.ece/ALTERNATES/s615/0_man-379800_1920.jpg (www.i2-prod.plymouthherald.co.uk)
- 
- Drink Image: https://img.resized.co/checkout/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvdXBsb2Fkc1xcXC8yMDE3XFxcLzA2XFxcLzA4MTI0NTUyXFxcLzYuLUJVTE1FUlMtY2lkZXItMjA1ODA4NV8xOTIwLTEwMjR4NzEzLmpwZ1wiLFwid2lkdGhcIjo3MDAsXCJoZWlnaHRcIjozNzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5jaGVja291dC5pZVxcXC9hc3NldHNcXFwvaVxcXC9ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5YjVjZGRkNWVjZmRlZTZhMmVlZjQ3MDkyYWNmOWM3MjY4ZTYzNmM1In0=/6-bulmers-cider-2058085-1920-1024x713.jpg (https://img.resized.co)
-    
- Background Image: https://i.pinimg.com/originals/e4/5f/54/e45f54e2cc5516e2210c34453db5ab6e.jpg (https://i.pinimg.com)
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
 
+### Making a Local Clone
 
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
 
-#
-## How to access Glutonia
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
 
-Glutonia isn't a published site but can be accessed with request through GitHub.
-It's designed for all devices, including any mobile phone.
-#
-## Purpose
+7. Press Enter. Your local clone will be created.
 
-It's a fun way of learning about Gluten and the types of effects it can have
-on people. It's not supposed to be a serious website, because serious can
-be boring.
-It has 4 pages, login page, home page, about us and a contact page all built using
-boostrap v4.
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
 
-#
-
-
-
-
-#
-
-
-
-
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Roadmap
 
