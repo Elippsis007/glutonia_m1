@@ -10,34 +10,31 @@ My project is a website with a humorous side of learning about Gluten.
 
 -   ### User stories
 
-    -   #### First Time Visitor Goals
+   -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the content it is showing.
-    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-    3. As a First Time Visitor, I want to look for the information on Gluten that is engaging and fun to learn.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the content it is showing.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        3. As a First Time Visitor, I want to look for the information on Gluten that is engaging and fun to learn.
 
--   #### Returning Visitor Goals
+   -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to find information about Gluten.
         2. As a Returning Visitor, I want to find the best way to get in contact with the website for any questions I may have.
         3. As a Returning Visitor, I want to find community links.
 
-        -   #### Frequent User Goals
+   -  #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any updated videos on Gluten for educational purposes.
         2. As a Frequent User, I want to check to see if there are updated pictures in the gluten-free gallery page.
         3. As a Frequent User, I want to check in with the funny and interesting content on the main page.
 
 -   ### Design
     -   #### Colour Scheme  
-        -   The color scheme on my website I was going for was clean and simple.
-I used a light multi-tone color background accross all pages for consistency.
-    -    #### Typography
-            The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. 
-Concert One is a strange font, it has characteristics that speak Gluten, I like the shape and the thickness of the font it has a type of "gooey" style to the font. 
-I see it as both relative and appropriate a fun and engaging website.
+        -   The color scheme on my website I was going for was clean and simple. I used a light multi-tone color background accross all pages for consistency.
+    -   #### Typography
+        -    The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. Concert One is a strange font, it has characteristics that speak Gluten, I like the shape and the thickness of the font it has a type of "gooey" style to the font. I see it as both relative and appropriate a fun and engaging website.
 
--   #### Imagery
-    -   Imagery in this website accross all content was to be fun and friendly.
+    -   #### Imagery
+        -   Imagery in this website accross all content was to be fun and friendly.
 
 *   ### Wireframes
 
@@ -94,17 +91,72 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a first time user, I wanted to easily portray the main purpose of the site and to show a little about the idea of the website.
     
-        1. When visiting the site, users are greeted with a clean and easily readable transparent navigation bar to go to the page of their choice. Centered in the home page is a simple login form with easily understandable text and instruction for a user to log in.
-The main focus of the page here is the simplistic approach and clear instruction as to how to proceed further if desired.
-The user has multiple options (inluding the navbar), click the call to action buttons on the form after inputting name and address which are REQUIRED.
-        2. The main point on this page is made with the simple, clean and easy on the eye colors.
-        3. The user here has a choice of 
-        2. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-Toward the bottom of all the pages there is the social links that will redirect you to the various social platforms.
-On the Contact Us Page you have a form to fill which is <i>non functioning</i>.
+        1. When visiting the site, users are greeted with a clean and easily readable transparent navigation bar. Centered in the home page is a simple login form with easily understandable text and instruction for a user to log in. The main focus of the page here is the simplistic approach and clear instruction as to how to proceed further if desired. The user has multiple options (inluding the navbar), click the call to action buttons on the form after inputting name and address which are REQUIRED.
+        2. The main point on this page is made with the simple, clean and easy on the eye colors with no overload of content.
+        3. The user here has a choice of logging into the website or clicking on the social media icons below the form.
+        
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        
+        1. The site has been designed to be fluid and never to entrap or confuse the user. At the top of each page there is a clean and transparent navigation bar, each link describes what the page they will end up at clearly. 
+        2. On the navigation bar when the user is logged in you can select a few options being: Main, Gallery, About and Contact
+        3. Every page after the home page has an option to navigate to a page of the site for where the user wishes to go. 
+        4. The websites pages are all responsive and will work on any device.
+        5. Toward the bottom of all the pages there is the social links that will redirect you to the various social media platforms. 
+        
+    3. As a First Time Visitor, I want to learn about Gluten, I want the information to be easily accessible, informative and fun. I want to join an official community of Gluten. I also want to locate their social media links to see their following on social media to determine how trusted and known they are. 
+        1. Once the user has navigated to the Main page they will see the content the are seeking and humor along the way.
+        2. The user can access the official Gluten website and community through the links on the main page.
+        3. The Main page is responsive and will work on any device.
+        4. The user can also access the social media links toward the bottom of each page.
 
-        3. Once the user has read the About Us text toward the end of the text there is a link which will redirect them to the main page of the website.
-The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
+    4. As a First Time Visitor, I want to know what type of foods I can eat and shop for.
+        1. The user can access the Gallery page once they are in the site. Here they will see a collection of crisp images on some food types they can eat and create.
+        2. The Gallery page is responsive and will work on any device. 
+        3. There are social media links toward the bottom of the gallery.
+    
+    5. As a First Time Visitor, I want to know about the site and why it was created.
+        1. The user can access the About page where they will be met with a simple and clean description of the website.
+        2. The About page is responsive and will work on any device.  
+        3. Toward the bottom of the page are social media links.
+
+    6. As a First Time Visitor, I want to be able to access content where I can submit comments, feedback or ideas.
+        1. The user can access the Contact page where they can submit their messages, comments and feedback.
+        2. The Contact page is responsive and will work on any device.
+        3. Toward the bottom of the page are the social medial links. 
+
+
+-   #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want to find new and updated content.
+
+        1. These are updated in the main page.
+        
+    2. As a Returning Visitor, I want to find the best way to get in contact with the website with any questions I may have.
+
+        1. The navigation bar clearly highlights the "Contact" Page.
+        2. Here they can fill out the form on the page or alternatively they can find us on social media with the links that are provided on all pages toward the bottom of each page.
+        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+        
+    3. As a Returning Visitor, I want to find the Community link so that I can join and interact with others in the official gluten website.
+        1. The official gluten community page can be found on the Main page in the carousel at the top on one of the slides. It can also be found in the Feature section. Both links open new tabs so the user can return to the website very easily.
+
+    4. As a Returning Visitor, I want to find a gallery with good quality photos.
+        1. The Gallery page can be found by clicking on the link on the nav bar.
+        
+-   #### Frequent User Goals
+    1. As a Frequent User, I want to check to see if there are any newly added articles, jokes and facts.
+
+        1. The user would already be comfortable with the website layout and can easily access the Main page.
+
+    2. As a Frequent User, I want to check to see if there are any new article and joke posts.
+
+        1. The user would already be comfortable with the website layout and can easily click the article link in the Main page.
+
+    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
+        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
+        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+         
 
 *   Further Testing
 
