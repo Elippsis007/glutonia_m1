@@ -3,8 +3,8 @@
 [View the live project here.](https://github.com/Elippsis007/glutonia_m1)
 
 This is Glutonia a website designed to be responsive and accessible for a range of devices, making it easy to navigate for the information you are seeking.
-Glutonia is a fun and simple way of learning about Gluten.
-My project is a website with a humorous side of learning about Gluten.
+Glutonia is a fun and simple way of learning about gluten.
+My project is a website with a humorous side of learning about gluten.
 
 ## User Experience (UX)
 
@@ -14,16 +14,16 @@ My project is a website with a humorous side of learning about Gluten.
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the content it is showing.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for the information on Gluten that is engaging and fun to learn.
+        3. As a First Time Visitor, I want to look for the information on gluten that is engaging and fun to learn.
 
    -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about Gluten.
+        1. As a Returning Visitor, I want to find information about gluten.
         2. As a Returning Visitor, I want to find the best way to get in contact with the website for any questions I may have.
         3. As a Returning Visitor, I want to find community links.
 
    -  #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any updated videos on Gluten for educational purposes.
+        1. As a Frequent User, I want to check to see if there are any updated videos on gluten for educational purposes.
         2. As a Frequent User, I want to check to see if there are updated pictures in the gluten-free gallery page.
         3. As a Frequent User, I want to check in with the funny and interesting content on the main page.
 
@@ -31,7 +31,7 @@ My project is a website with a humorous side of learning about Gluten.
     -   #### Colour Scheme  
         -   The color scheme on my website I was going for was clean and simple. I used a light multi-tone color background across all pages for consistency.
     -   #### Typography
-        -    The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. Concert One is a strange font, it has characteristics that speak Gluten, I like the shape and the thickness of the font it has a type of "gooey" style to the font. I see it as both relative and appropriate a fun and engaging website.
+        -    The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. Concert One is a strange font, it has characteristics that speak gluten, I like the shape and the thickness of the font it has a type of "gooey" style to the font. I see it as both relative and appropriate a fun and engaging website.
     -   #### Imagery
         -   Imagery in this website across all content was to be fun and friendly.
 
@@ -124,9 +124,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         4. The websites pages are all responsive and will work on any device.
         5. Toward the bottom of all the pages there is the social links that will redirect you to the various social media platforms. 
         
-    3. As a First Time Visitor, I want to learn about Gluten, I want the information to be easily accessible, informative and fun. I want to join an official community of Gluten. I also want to locate their social media links to see their following on social media to determine how trusted and known they are. 
+    3. As a First Time Visitor, I want to learn about gluten, I want the information to be easily accessible, informative and fun. I want to join an official community of gluten. I also want to locate their social media links to see their following on social media to determine how trusted and known they are. 
         1. Once the user has navigated to the Main page they will see the content the are seeking and humor along the way.
-        2. The user can access the official Gluten website and community through the links on the main page.
+        2. The user can access the official gluten website and community through the links on the main page.
         3. The Main page is responsive and will work on any device.
         4. The user can also access the social media links toward the bottom of each page.
 
