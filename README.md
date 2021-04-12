@@ -10,19 +10,19 @@ My project is a website with a humorous side of learning about gluten.
 
 -   ### User stories
 
-   -   #### First Time Visitor Goals
+    -   #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the content it is showing.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to look for the information on gluten that is engaging and fun to learn.
 
-   -   #### Returning Visitor Goals
+    -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to find information about gluten.
         2. As a Returning Visitor, I want to find the best way to get in contact with the website for any questions I may have.
         3. As a Returning Visitor, I want to find community links.
 
-   -  #### Frequent User Goals
+    -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any updated videos on gluten for educational purposes.
         2. As a Frequent User, I want to check to see if there are updated pictures in the gluten-free gallery page.
         3. As a Frequent User, I want to check in with the funny and interesting content on the main page.
