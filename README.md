@@ -3,7 +3,7 @@
 [View the live project here.](https://github.com/Elippsis007/glutonia_m1)
 
 This is Glutonia a website designed to be responsive and accessible for a range of devices, making it easy to navigate for the information you are seeking.
-Glutonia is a fun and simple way of learning about gluten.
+Glutonia is a fun and a simple way of learning about gluten.
 My project is a website with a humorous side of learning about gluten.
 
 ## User Experience (UX)
@@ -92,7 +92,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a first time user, I wanted to easily portray the main purpose of the site and to show a little about the idea of the website.
     
-        1. When visiting the site, users are greeted with a clean and easily readable transparent navigation bar. Centered in the home page is a simple login form with easily understandable text and instruction for a user to log in. The main focus of the page here is the simplistic approach and clear instruction as to how to proceed further if desired. The user has multiple options (inluding the navbar), click the call to action buttons on the form after inputting name and address which are REQUIRED.
+        1. When visiting the site, users are greeted with a clean and easily readable transparent navigation bar. Centered in the home page is a simple login form with easily understandable text and instruction for a user to log in. The main focus of the page here is the simplistic approach and clear instruction as to how to proceed further if desired. The user has multiple options (including the navbar), click the call to action buttons on the form after inputting name and address which are REQUIRED.
         2. The main point on this page is made with the simple, clean and easy on the eye colors with no overload of content.
         3. The user here has a choice of logging into the website or clicking on the social media icons below the form.
         
@@ -170,7 +170,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Known Bugs
 
 -  On some mobile devices the I was having issues with down-scaling from full screen to mobile where content was not formatting accordingly    
--  A white space could be seen outside the background image accross all variations of sizes at the navigation and footer bars.
+-  A white space could be seen outside the background image across all variations of sizes at the navigation and footer bars.
 -  These bugs have since been fixed.
 
 ## Deployment
@@ -255,20 +255,16 @@ Images that were used on this website were used from a Google images search.
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My Mentor Gerry for continuous helpful feedback and support.
 
 -   Tutor support at Code Institute for their support.
+
 ## References
 
 Templates for the Index.html & Main.html were taken from https://getbootstrap.com/
-
-The styling for these templater were work of my own from getting answers from https://stackoverflow.com/
 
 Bulmers Official Website Link: https://www.bulmers.co.uk/faqs
 
 Fontawesome: https://www.fontawesome.com
 
-#
-## Contributing
-This is a private project for a collge project. Unfortunately
-pull requests for any type of changes won't be permitted.
+Video on the Main page was embedded from https://www.youtube.com
