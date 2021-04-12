@@ -6,6 +6,8 @@ This is Glutonia a website designed to be responsive and accessible for a range 
 Glutonia is a fun and a simple way of learning about gluten.
 My project is a website with a humorous side of learning about gluten.
 
+<h2 align="center"><img src="https://github.com/Elippsis007/glutonia_m1/blob/master/assets/website_screenshot/Screenshot_website_devices.png?raw=true"></h2>
+
 ## User Experience (UX)
 
 -   ### User stories
