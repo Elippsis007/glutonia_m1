@@ -1,6 +1,6 @@
 <h1 align="center">Glutonia</h1>
 
-# Glutonia
+[View the live project here.](https://github.com/Elippsis007/glutonia_m1)
 
 This is Glutonia a website designed to be responsive and accessible for a range of devices, making it easy to navigate for the information you are seeking.
 Glutonia is a fun and simple way of learning about Gluten.
@@ -29,11 +29,11 @@ My project is a website with a humorous side of learning about Gluten.
 
 -   ### Design
     -   #### Colour Scheme  
-        -   The color scheme on my website I was going for was clean and simple. I used a light multi-tone color background accross all pages for consistency.
+        -   The color scheme on my website I was going for was clean and simple. I used a light multi-tone color background across all pages for consistency.
     -   #### Typography
         -    The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. Concert One is a strange font, it has characteristics that speak Gluten, I like the shape and the thickness of the font it has a type of "gooey" style to the font. I see it as both relative and appropriate a fun and engaging website.
     -   #### Imagery
-        -   Imagery in this website accross all content was to be fun and friendly.
+        -   Imagery in this website across all content was to be fun and friendly.
 
 *   ### Wireframes
 
@@ -49,7 +49,7 @@ My project is a website with a humorous side of learning about Gluten.
 
 ## Images
 
-Images that were used on this website were used from google images search. 
+Images that were used on this website were used from Google images search. 
     
  Conspiracy Image: https://cdn.vox-cdn.com/ (Shutter Stock)
  
@@ -191,6 +191,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -  On some mobile devices the I was having issues with down-scaling from full screen to mobile where content was not formatting accordingly    
 -  A white space could be seen outside the background image accross all variations of sizes at the navigation and footer bars.
+-  These bugs have since been fixed.
 
 ## Deployment
 
@@ -253,7 +254,8 @@ The styling for these templater were work of my own from getting answers from ht
 
 Bulmers Official Website Link: https://www.bulmers.co.uk/faqs
 
-Fonawesome: https://www.fontawesome.com
+Fontawesome: https://www.fontawesome.com
+
 #
 ## Contributing
 This is a private project for a collge project. Unfortunately
