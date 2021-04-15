@@ -33,7 +33,7 @@ My project is a website with a fun way of learning about gluten.
     -   #### Colour Scheme  
         -   The color scheme on my website I was going for was clean and simple. I used a light multi-tone color background across all pages for consistency.
     -   #### Typography
-        -    The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. Concert One is a strange font, it has characteristics that speak gluten, I like the shape and the thickness of the font it has a type of "gooey" style to the font. I see it as both relative and appropriate a fun and engaging website.
+        -    The Concert One font is the main font used throughout the whole website with Cursive as the fallback font in case for any reason the font isn't being imported into the site correctly. Concert One is a strange font, it has characteristics that speak gluten, I like the shape and the thickness of the font it has a type of "gooey" style to the font. I see it as both relative and appropriate for a fun and engaging website.
     -   #### Imagery
         -   Imagery in this website across all content was to be fun and friendly.
 
