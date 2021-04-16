@@ -39,15 +39,15 @@ My project is a website with a fun way of learning about gluten.
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/index.html)
+    -   Home Page Wireframe - [view](https://browser-chocolate-gull-sn5rhfsf.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/index.html-balsamiq.png)
 
     -   Main Wireframe - [view](https://browser-chocolate-gull-sn5rhfsf.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/main.html-balsamiq.png)
 
-    -   Gallery Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/gallery.html) 
+    -   Gallery Wireframe - [view](https://browser-chocolate-gull-sn5rhfsf.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/gallery.html-balsamiq.png) 
 
-    -   About Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/about.html)
+    -   About Wireframe - [view](https://browser-chocolate-gull-sn5rhfsf.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/about.html-balsamiq.png)
 
-    -   Contact Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/contact.html)
+    -   Contact Wireframe - [view](https://browser-chocolate-gull-sn5rhfsf.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/contact.html-balsamiq.png)
 
 ## Features
 
@@ -86,6 +86,7 @@ My project is a website with a fun way of learning about gluten.
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Elippsis007/glutonia_m1/tree/master/assets/w3_validator/w3c_html)
+    
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Elippsis007/glutonia_m1/tree/master/assets/w3_validator/w3c_css)
 
 ### Testing User Stories from User Experience (UX) Section
@@ -187,7 +188,7 @@ The project was deployed to GitHub Pages using the following steps...
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://elippsis007.github.io/glutonia_m1/) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
