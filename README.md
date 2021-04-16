@@ -41,7 +41,7 @@ My project is a website with a fun way of learning about gluten.
 
     -   Home Page Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/index.html)
 
-    -   Main Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/main.html)
+    -   Main Wireframe - [view](https://browser-chocolate-gull-sn5rhfsf.ws-eu03.gitpod.io/workspace/glutonia_m1/assets/wireframes/main.html-balsamiq.png)
 
     -   Gallery Wireframe - [view](https://github.com/Elippsis007/glutonia_m1/blob/master/gallery.html) 
 
