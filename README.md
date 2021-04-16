@@ -1,6 +1,6 @@
 <h1 align="center">Glutonia</h1>
 
-[View the live project here.](https://github.com/Elippsis007/glutonia_m1)
+[View the live project here.](https://elippsis007.github.io/glutonia_m1/)
 
 This is Glutonia a website designed to be responsive and accessible for a range of devices, making it easy to navigate for the information you are seeking.
 Glutonia is a fun and a simple way of learning about gluten.
