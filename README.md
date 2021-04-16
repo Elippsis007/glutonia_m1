@@ -131,20 +131,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find new and updated content.
-
-        1. These are updated in the main page.
-        
-    2. As a Returning Visitor, I want to find the best way to get in contact with the website with any questions I may have.
+    1. As a Returning Visitor, I want to find the best way to get in contact with the website with any questions I may have.
 
         1. The navigation bar clearly highlights the "Contact" Page.
         2. Here they can fill out the form on the page or alternatively they can find us on social media with the links that are provided on all pages toward the bottom of each page.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+        3. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
         
-    3. As a Returning Visitor, I want to find the Community link so that I can join and interact with others in the official gluten website.
+    2. As a Returning Visitor, I want to find the Community link so that I can join and interact with others in the official gluten website.
         1. The official gluten community page can be found on the Main page in the carousel at the top on one of the slides. It can also be found in the Feature section. Both links open new tabs so the user can return to the website very easily.
 
-    4. As a Returning Visitor, I want to find a gallery with good quality photos.
+    3. As a Returning Visitor, I want to find a gallery with good quality photos.
         1. The Gallery page can be found by clicking on the link on the nav bar.
         
 -   #### Frequent User Goals
